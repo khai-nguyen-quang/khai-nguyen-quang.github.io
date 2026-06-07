@@ -10,4 +10,10 @@ Experties
 A lifelong learner <br>
 https://www.linkedin.com/in/khai-nguyen-quang/
 
-# Project
+# Core skills
+- Setting up a project from scratch, creating containerized development setup, enabling CI/CD with basic necessary phases (compilation, lint, sanitizer, testing,...)
+- Developing camera based products (ADAS, Dash Cam, Driver Monitoring system,...)
+
+# Projects
+
+1. [Clade Workflow](claude_workflow.md)
