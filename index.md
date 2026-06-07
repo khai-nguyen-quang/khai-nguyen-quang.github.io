@@ -14,6 +14,8 @@ https://www.linkedin.com/in/khai-nguyen-quang/
 - Setting up a project from scratch, creating containerized development setup, enabling CI/CD with basic necessary phases (compilation, lint, sanitizer, testing,...)
 - Developing camera based products (ADAS, Dash Cam, Driver Monitoring system,...)
 
-# Projects
+
+# Pet projects
 
 1. [Clade Workflow](claude_workflow.md)
+2. [camera-daemon](camera_daemon.md)
